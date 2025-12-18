@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "Initial proxy server"
+git branch -M main
+git remote add origin https://github.com/
+<BenThmpsn>/simple-proxy.git
+git push -u origin main
